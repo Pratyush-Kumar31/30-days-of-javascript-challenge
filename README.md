@@ -13,7 +13,8 @@ JavaScript is one of the most popular programming languages in the world. Hitesh
 3. [Day 3: Control Structures](#day-3-control-structures)
 4. [Day 4: Loops](#day-4-loops)
 5. [Day 5: Functions](#day-5-functions)
-6. [Day 6: ArrayS](#day-5-arrays)
+6. [Day 6: ArrayS](#day-6-arrays)
+7. [Day 7: Objects](#day-7-objects)
 
 
 ## Daily Progress
@@ -45,6 +46,11 @@ JavaScript is one of the most popular programming languages in the world. Hitesh
 - Learned about array methods and properties
 - Used array methods like : push(), Pop(), shift() etc..
 - Practiced manipulating arrays
+- Completed all given tasks
+  
+### Day 7: Object
+- Learned about Object creation it's methods and properties
+- Learned about nested object and how to use for-in loop on objects
 - Completed all given tasks
 
 
